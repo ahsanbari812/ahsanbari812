@@ -22,16 +22,6 @@ If you like cool widgets, fun props, and interactive vibes, you’re in the righ
 
 ![Dev Joke Widget](https://readme-jokes.vercel.app/api?theme=radical)
 
----
-
-### 🏆 Achievements Unlocked
-
-- 🥇 **Shipped an AI-powered Resume Builder!**
-- 🥈 **Built awesome UIs with React.js**
-- 🥉 **Mastered C++ for algorithmic wizardry**
-
----
-
 ## 📈 GitHub XP Bar
 
 ![Ahsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsanbari812&show_icons=true&theme=radical)
