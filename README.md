@@ -1,59 +1,67 @@
-# 🚀 Welcome, Adventurer! I'm Ahsan Bari 👋
+# 👋 Hey, I’m Ahsan Bari!
 
-Step into my GitHub realm — where frontend magic, gaming spirit, and AI experiments collide!  
-If you like cool widgets, fun props, and interactive vibes, you’re in the right place.
+Welcome to my GitHub!  
+Where frontend meets fun, and code meets creativity.
 
 ---
 
-## 🎭 Character Card
+## 🧑‍💻 About Me
 
-| 💻 Profession           | 🛠️ Frontend Developer           |
-|------------------------|----------------------------------|
-| 🧠 Top Skills           | C++, JavaScript, React.js        |
-| 🤖 Special Project      | [AI Resume Builder](https://github.com/ahsanbari812/ai-resume-builder) |
-| 🌐 Connect              | [LinkedIn](https://linkedin.com/in/ahsanbari812) • [Portfolio](https://ahsanportfolio-phi.vercel.app) |
-| 🎮 Hobbies              | Gaming, Music, Football          |
+- **Frontend Developer** | React enthusiast | C++ & JavaScript fan
+- Building things that look good and work even better
+- Always learning, always tinkering
+
+---
+
+## 🚀 Featured Project
+
+[![AI Resume Builder](https://github-readme-stats.vercel.app/api/pin/?username=ahsanbari812&repo=ai-resume-builder&theme=gruvbox)](https://github.com/ahsanbari812/ai-resume-builder)
+
+---
+
+## 🌟 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsanbari812&show_icons=true&theme=gruvbox" height="180">
+  <img src="https://streak-stats.demolab.com?user=ahsanbari812&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanbari812&layout=compact&theme=gruvbox" height="180">
+</p>
+
+---
+
+## 🎯 GitHub Activity
+
+[![Ahsan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahsanbari812&theme=gruvbox&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🧩 Fun Widgets
 
-### 🎲 Random Dev Fact
-
-![Dev Joke Widget](https://readme-jokes.vercel.app/api?theme=radical)
-
-## 📈 GitHub XP Bar
-
-![Ahsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsanbari812&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanbari812&layout=compact&theme=radical)
+| Dev Joke | Visitor Badge | Random Quote |
+|:--------:|:--------------:|:-------------:|
+| ![Dev Joke Widget](https://readme-jokes.vercel.app/api?theme=gruvbox) | ![Visitors](https://komarev.com/ghpvc/?username=ahsanbari812&style=flat-square&color=orange) | [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)](https://github.com/piyushsuthar/github-readme-quotes) |
 
 ---
 
-## 💡 Featured Project
+## 🎮 Beyond Code
 
-[![AI Resume Builder](https://github-readme-stats.vercel.app/api/pin/?username=ahsanbari812&repo=ai-resume-builder&theme=radical)](https://github.com/ahsanbari812/ai-resume-builder)
-
----
-
-## 🎮 IRL Power-Ups
-
-- 🎮 Gaming: Always ready for a co-op quest!
-- 🎵 Music: Rhythm fuels my coding sprints
-- ⚽ Football: Kicking goals on and off the field
+- 🎮 Gaming (ready for your challenge)
+- 🎵 Music (headphones on, code flowing)
+- ⚽ Football (real and virtual)
 
 ---
 
-## ✨ Connect & Collaborate
+## 🌐 Connect with Me
 
-- [🐦 LinkedIn](https://linkedin.com/in/ahsanbari812)
-- [🌐 My Portfolio](https://ahsanportfolio-phi.vercel.app)
-
----
-
-> _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsanbari812)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222?logo=vercel&logoColor=white)](https://ahsanportfolio-phi.vercel.app)
 
 ---
 
-**Thanks for visiting!**  
-✨ Star your favorite repo, drop me a message, or challenge me to a coding duel!  
-Happy exploring! 😄
+<details>
+  <summary>🌱 Fun fact</summary>
+  <blockquote>
+    I believe the best UI is invisible.<br>
+    (If you noticed it, I probably refactored it the next day.)
+  </blockquote>
+</details>
